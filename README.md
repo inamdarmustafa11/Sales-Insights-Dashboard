@@ -9,7 +9,7 @@ I'm excited to share my latest achievement—a **Sales Insights Dashboard**—de
 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAyNWY5MzYtNTkyOC00ZGEzLTk5MDQtZGY3NGQwNzMwYTAyIiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
 
 ### Key Insights:
-![Key Insights](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/1070db77527042e4b679aed9b85c96278125199e/Key%20Insights.jpeg)
+![Key Insights](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/d9d5f8037cafbf05bdb35360e1089a42ecef63e3/Key%20Insights.jpeg)
 
 
 - **Total Revenue:** ₹984.81M
