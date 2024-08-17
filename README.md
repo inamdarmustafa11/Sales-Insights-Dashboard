@@ -15,41 +15,46 @@ I'm excited to share my latest achievement—a **Sales Insights Dashboard**—de
 - **Total Revenue:** ₹984.81M
 - **Total Sales Quantity:** 2M units
 - **Top 5 Markets by Revenue:**
-  - Delhi NCR: ₹482.84M
-  - Mumbai: ₹252K
-  - Nagpur: ₹252K
-  - Kochi: ₹252K
-  - Ahmedabad: ₹252K
+  - Delhi NCR: ₹519.51 M
+  - Mumbai: ₹ 150.08 M
+  - Ahmedabad: ₹132.31 M
+  - Bhopal: ₹58.61 M
+  - Nagpur: ₹55.03 M
+
+- **Top 5 Markets by Sales:**
+  - Delhi NCR: ₹988k
+  - Mumbai: ₹ 384k
+  - Nagpur: ₹262k
+  - Kochi: ₹ 255k
+  - Ahmedabad: ₹ 207k
+
+
+- **Top 5 Customers:**
+- Electricalsara Stores: 413.33M in revenue
+- Electricalslytical: 49.64 M in revenue
+- Excel Stores: ₹49.12 M in revenue
+- Premium Stores: ₹44.91M in revenue
+- Nixon: ₹43.89M in revenue
 
 ### Profit Analysis:
 ![Profit Analysis](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/deedd56eea8550837f8298c25c083233f7272d4e/Profit%20Analysis.jpeg)
 
-- **Profit % by Markets:** A thorough analysis of profit margins, with Delhi NCR leading at 4.9% and Surat showing a need for improvement at -20.8%.
-- **Profit Contribution % by Markets:** A detailed breakdown of how different markets contribute to overall profitability, with Delhi NCR contributing 48.5% and Mumbai 19.8%.
-- **Top 5 Markets by Profit %:**
+- **Profit Contribution Percentage by Markets:** A detailed breakdown of how different markets contribute to overall profitability, with Delhi NCR contributing 48.5% and Mumbai 19.8%.
+- **Profit Percentage by Markets:** A thorough analysis of profit margins, with Delhi NCR leading at 4.9% and Surat showing a need for improvement at -20.8%.
+
+- **Top 5 Markets by Profit Percentage :**
   - Delhi NCR: 4.9%
   - Mumbai: 4.1%
   - Nagpur: 4.0%
   - Kochi: 3.9%
   - Ahmedabad: 3.7%
 
+- **Total Profit Margin : 24.7M**
+
 ### Performance Insights:
 ![Performance Insights](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/0d09fcfb6d84a3c46f960e3cbc8e01c6ff876f48/Performance%20Insights.jpeg)
 
-- **Revenue by Markets:** A detailed look at revenue generation across various markets, with Delhi NCR being the top performer.
-- **Sales Quantity by Markets:** Insights into sales volume across markets, highlighting Delhi NCR with 894K units sold.
-- **Top 5 Customers:**
-  - Electricalsara Stores: ₹413.33M in revenue
-  - Electricalslytical: ₹23.58M in revenue
-  - Excel Stores: ₹17.66M in revenue
-  - Premium Stores: ₹16.26M in revenue
-  - Nixon: ₹15.60M in revenue
-- **Top 5 Products:**
-  - Prod040: ₹468.96M in sales
-  - Prod159: ₹23.58M in sales
-  - Prod065: ₹17.66M in sales
-  - Prod018: ₹16.26M in sales
-  - ProdXXX: ₹15.60M in sales
+    
 - **Revenue Trend (2017-2020):** Visualization of revenue growth over the years, with key peaks and trends identified for strategic forecasting.
 - **Profit % by Zone, Markets, Customers, Product:** An in-depth analysis of profit margins across different zones, markets, customers, and products, providing a comprehensive understanding of profitability drivers.
 
