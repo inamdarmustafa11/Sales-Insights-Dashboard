@@ -22,7 +22,7 @@ I'm excited to share my latest achievement—a **Sales Insights Dashboard**—de
   - Ahmedabad: ₹252K
 
 ### Profit Analysis:
-![Profit Analysis](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/e5f01e0999c60b1536520898d51609c092ce8617/Profit%20Analysis.jpeg)
+![Profit Analysis](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/deedd56eea8550837f8298c25c083233f7272d4e/Profit%20Analysis.jpeg)
 
 - **Profit % by Markets:** A thorough analysis of profit margins, with Delhi NCR leading at 4.9% and Surat showing a need for improvement at -20.8%.
 - **Profit Contribution % by Markets:** A detailed breakdown of how different markets contribute to overall profitability, with Delhi NCR contributing 48.5% and Mumbai 19.8%.
