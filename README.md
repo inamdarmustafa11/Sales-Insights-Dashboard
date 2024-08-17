@@ -34,7 +34,7 @@ I'm excited to share my latest achievement—a **Sales Insights Dashboard**—de
   - Ahmedabad: 3.7%
 
 ### Performance Insights:
-![Performance Insights](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/740a02df3673a61b1e86dc664c6b7f59af10884d/Performance%20Insights.jpeg)
+![Performance Insights](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/0d09fcfb6d84a3c46f960e3cbc8e01c6ff876f48/Performance%20Insights.jpeg)
 
 - **Revenue by Markets:** A detailed look at revenue generation across various markets, with Delhi NCR being the top performer.
 - **Sales Quantity by Markets:** Insights into sales volume across markets, highlighting Delhi NCR with 894K units sold.
