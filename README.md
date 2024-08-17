@@ -30,11 +30,11 @@ I'm excited to share my latest achievement—a **Sales Insights Dashboard**—de
 
 
 - **Top 5 Customers:**
-- Electricalsara Stores: 413.33M in revenue
-- Electricalslytical: 49.64 M in revenue
-- Excel Stores: ₹49.12 M in revenue
-- Premium Stores: ₹44.91M in revenue
-- Nixon: ₹43.89M in revenue
+  - Electricalsara Stores: 413.33M in revenue
+  - Electricalslytical: 49.64 M in revenue
+  - Excel Stores: ₹49.12 M in revenue
+  - Premium Stores: ₹44.91M in revenue
+  - Nixon: ₹43.89M in revenue
 
 ### Profit Analysis:
 ![Profit Analysis](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/deedd56eea8550837f8298c25c083233f7272d4e/Profit%20Analysis.jpeg)
